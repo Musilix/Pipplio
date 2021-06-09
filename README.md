@@ -1,6 +1,6 @@
 <h1 align="center">🤝Pipplio🤝</h1>
 
-<p align="center"><img src="./mdAssets/images/pipplioPrevCrop.png"/></p>
+<p align="center"><img src="./src/mdAssets/images/pipplioPrevCrop.png"/></p>
 
 <h4 align="center">A straightforward networking app for people who want to get into the startup scene, but don't have anyone to join them, yet.</h4>
 
@@ -12,4 +12,4 @@
 <p>As it stands right now, Pipplio is in the early ideation phase.</p>
 
 - [ ]  Requirements are being plotted out, design is being laid down, and infrastructure is being diagramed. Soon enough, we will have an MVP for everyone to test out Pipplio!
-- [ ] Deploying MVP to Prod
+- [ ] Deploy beta and allow users to sign up for use and testing
