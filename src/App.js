@@ -16,7 +16,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Musilix/Pipplio"
           target="_blank"
           rel="noopener noreferrer"
         >
