@@ -11,5 +11,5 @@
 <h1>Road Map: </h1>
 <p>As it stands right now, Pipplio is in the early ideation phase.</p>
 
-- [ ]  Requirements are being plotted out, design is being laid down, and infrastructure is being diagramed. Soon enough, we will have an MVP for everyone to test out Pipplio!
-- [ ] Deploy beta and allow users to sign up for use and testing
+- [x]  Requirements are being plotted out, design is being laid down, and infrastructure is being diagramed. Soon enough, we will have an MVP for everyone to test out Pipplio!
+- [ ] Deploy MVP and allow users to sign up for use and testing
