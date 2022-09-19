@@ -8,8 +8,12 @@
 
 <br><br><br>
 
-<h1>Road Map: </h1>
-<p>As it stands right now, Pipplio is in the early ideation phase.</p>
+<p align="center"><img src="./src/mdAssets/images/pipplio-prev-user.png" width="800" style="margin: 30px;"/><img src="./src/mdAssets/images/pipplio-prev-messaging.png" width="800" style="margin: 30px;"/><img src="./src/mdAssets/images/pipplio-prev-matching.png" width="800" style="margin: 30px;"/></p>
 
-- [x]  Requirements are being plotted out, design is being laid down, and infrastructure is being diagramed. Soon enough, we will have an MVP for everyone to test out Pipplio!
+<br><br><br>
+
+<h1>Road Map: </h1>
+<p>As it stands right now, Pipplio is in the early ideation and mocking phase.</p>
+
+- [x] Requirements are being plotted out, design is being laid down, and infrastructure is being diagramed. Soon enough, we will have an MVP for everyone to test out Pipplio!
 - [ ] Deploy MVP and allow users to sign up for use and testing
